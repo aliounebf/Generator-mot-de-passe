@@ -12,7 +12,7 @@ source venv/bin/activate
 # win 
 python3 -m venv venv
 .\venv\Scripts\activate.ps1
-````
+```
 
 ## packages
 
@@ -21,3 +21,4 @@ python3 -m venv venv
 ./venv/bin/pip install pyside6
 
 ./venv/bin/pip freeze > requirements.txt
+
